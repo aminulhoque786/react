@@ -1,0 +1,21 @@
+#banner{
+   
+    background-image: url('../../assets/Hero.png');
+    background-size: cover; /* Make the background cover the entire area */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+ padding:100px 0;
+
+}
+.how{
+    text-align: center;
+    padding-top: 100px;
+}
+.how h2{
+    text-align: center;
+    align-items: center;
+    width:600px;
+    font-size: 64px;
+    font-weight: bold;
+    color:#29313D;
+}

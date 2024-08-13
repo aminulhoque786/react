@@ -1,0 +1,49 @@
+#footer{
+ 
+    padding: 100px 0;
+    margin-top: 100px;
+}
+
+.tank p{
+    padding-top: 20px;
+    width:449px;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 20px;
+}
+.pus h3{
+    padding-top: 90px;
+    font-size: 20px;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+}
+.gud h3{
+    padding-top: 90px;
+    font-family: "Nunito", sans-serif;
+    color: #29313D;
+    font-size: 18px;
+}
+.ugu{
+    color: #29313D;
+    font-family: "Nunito", sans-serif;
+    text-align: center;
+    
+    
+}
+.ugu p{
+    font-family: "Nunito", sans-serif;
+    font-size: 20px;
+    font-weight: 600px;
+}
+.ugu p{
+    font-family: "Nunito", sans-serif;
+    font-size: 20px;
+    font-weight: 600px;
+}
+.ugu p:hover{
+    font-family: "Nunito", sans-serif;
+border-radius: 40px;
+background-color: #1BBF00;
+transition: .9s;
+
+}

@@ -1,0 +1,44 @@
+#experience{
+    padding: 140px 100px;
+  
+}
+.right h2{
+    width:554px;
+    font-size: 48px;
+    font-family: "Poppins", sans-serif;
+}
+.kosto img{
+    padding-top: 60px;
+}
+.man{
+    padding-top: 64px;
+}
+.man h3{
+    font-size: 25px;
+    font-family: "Poppins", sans-serif;
+}
+.man p{
+    width:502px;
+    font-size: 18px;
+font-family: "Nunito", sans-serif;
+}
+.man p{
+    width:502px;
+    font-size: 18px;
+font-family: "Nunito", sans-serif;
+}
+.luck {
+    padding-top: 100px;
+}
+.jik h6  {
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 20px 10px;
+}
+.accordion {
+    font-family: "Nunito", sans-serif;
+    padding-top: 30px;
+    width:502px;
+    font-size: 18px;
+}

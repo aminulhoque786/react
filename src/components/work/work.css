@@ -1,0 +1,89 @@
+#work{
+    padding: 100px 100px;
+}
+.process h2{
+    text-align:center ;
+    color:#29313D;
+    font-size: 48px;
+    font-weight: 500;
+}
+.process h5{
+    color:#29313D;
+    font-size: 20px;
+    padding-top: 20px;
+    text-align: center;
+    align-items: center;
+}
+.service{
+    padding-top: 120px;
+}
+.inform h3{
+   padding-top: 30px;
+}
+.fus {
+    width: 100px;        /* Set the width of the circle */
+    height: 100px;       /* Set the height of the circle */
+    background-color:lightcoral;  /* Background color of the circle */
+    border-radius: 50%;  /* Make it a circle */
+    display: flex;       /* Enable flexbox */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    color: white;        /* Text color */
+    font-size: 24px;     /* Font size of the text */
+  }
+.fus h3{
+    text-align: center;
+    
+}
+.inform h3{
+    font-size: 28px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+   
+}
+.juk{
+    padding-top: 32px;
+    box-shadow: 7px 5px 9px 1px  #C4C4C4;
+}
+
+.huk{
+    padding-top: 32px;
+    box-shadow: 7px 5px 9px 1px  #C4C4C4;
+}
+
+.ku img{
+    padding-left: 200px;
+    width:90%;
+}
+.ku:hover img{
+    transform: scale(1.1); 
+    transition: transform 0.3s ease;
+    transition: .9s;
+}
+.high{
+    padding-top: 32;
+    box-shadow: 7px 5px 9px 1px  #C4C4C4;
+}
+.fus :hover{
+    background-color: blue;
+    width: 100px;        /* Set the width of the circle */
+    height: 100px;       /* Set the height of the circle */
+    transition: .9s;
+    border-radius: 50%;  /* Make it a circle */
+    display: flex;       /* Enable flexbox */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+   
+}
+.huk:hover{
+    background: linear-gradient(to bottom, #ec684a, #e0690e);
+    transition: .9s;
+}
+.juk:hover{
+    background: linear-gradient(to bottom, #d86e56, #e0690e);
+    transition: .9s;
+}
+.high:hover{
+    background: linear-gradient(to bottom, #db674c, #e0690e);
+    transition: .9s;
+}

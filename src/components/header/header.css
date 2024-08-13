@@ -1,0 +1,35 @@
+#menu{
+
+}
+.navbar-nav{
+    font-size: 20px;
+    column-gap: 20px;
+    font-weight: 500;
+    
+}
+.menu-bg{
+    background-color: rgb(211, 235, 235);
+}
+.tai button{
+    margin: 20px;
+    background-color: aqua;
+    color: black;
+    border: 2px solid orangered;
+    font-weight: 500;
+}
+.tai button:hover{
+    background-color: orangered;
+    cursor: pointer;
+    transition: .9s;
+}
+
+.how{
+    text-align: center;
+    padding-top: 220px;
+}
+.how h2{
+    text-align: center;
+    align-items: center;
+    width:600px;
+    font-size: 64px;
+}
